@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 1400px;
+}
+
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: #5c1212;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 22px;
+  left: 150px;
+}
+
+.container .btn {
+  position: absolute;
+  top: 90%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #5c1212;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container .btn:hover {
+  background-color: black;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <img src="https://thesushantkumar.com/wp-content/uploads/2021/01/gut-banner-1536x864.jpg" alt="Snow" style="width:100%">
+  <button class="btn">Add to Cart</button>
+  <div class="bottom-left">US $ 195 <s>( US $255)</s></div>
+  
+</div>
+
+
+</body>
+</html>
