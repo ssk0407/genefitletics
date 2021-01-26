@@ -130,19 +130,14 @@
                                                                         <table cellpadding="0" cellspacing="0" width="100%">
                                                                             <tbody>
                                                                                 <tr>
-                                                                                    <td class="esd-block-html es-p15">
-                                                                                        <div>
-                                                                                            <h2 style="align-center"> Listen in English</h2><iframe src="https://anchor.fm/sushant-kumar02/embed/episodes/Protein-digestion-Does-our-gut-bacteria-have-a-role-to-play-epgaeg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-                                                                                        </div>
-                                                                                        <div>
-                                                                                            <h2 style="align-center"> Listen in Russian</h2><iframe src="https://anchor.fm/sushant-kumar02/embed/episodes/ep-epgb14" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-                                                                                        </div>
-                                                                                        <div>
-                                                                                            <h2 style="align-center"> Listen in Spanish</h2><iframe src="https://anchor.fm/sushant-kumar02/embed/episodes/Digestin-de-protenas-nuestras-bacterias-intestinales-tienen-un-papel-que-desempear-epgbqe" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-                                                                                        </div>
-                                                                                        <div>
-                                                                                            <h2 style="align-center"> Listen in Arabic</h2><iframe src="https://anchor.fm/sushant-kumar02/embed/episodes/ep-epgdd5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-                                                                                        </div>
+                                                                                    <td align="left" class="esd-block-text" esd-links-color="#3d85c6">
+                                                                                        <h2>Click on the link&nbsp;Below to Listen to the podcast</h2>
+                                                                                        <p><br></p>
+                                                                                        <h3><a target="_blank" href="https://anchor.fm/sushant-kumar02/episodes/Protein-digestion-Does-our-gut-bacteria-have-a-role-to-play-epgaeg/a-a1ptlh" style="color: #3d85c6;">English</a></h3>
+                                                                                        <p><br></p>
+                                                                                        <h3><a target="_blank" href="https://anchor.fm/sushant-kumar02/episodes/ep-epgb14/a-a1pm7n" style="color: #3d85c6;">Russian </a></h3><br>
+                                                                                        <h3><a target="_blank" style="color: #3d85c6;" href="https://anchor.fm/sushant-kumar02/episodes/Digestin-de-protenas-nuestras-bacterias-intestinales-tienen-un-papel-que-desempear-epgbqe/a-a1plh4">Spanish </a></h3><br>
+                                                                                        <h3><a target="_blank" style="color: #3d85c6;" href="https://anchor.fm/sushant-kumar02/episodes/ep-epgdd5/a-a1pm79">Arabic </a></h3><br><br>
                                                                                     </td>
                                                                                 </tr>
                                                                             </tbody>
