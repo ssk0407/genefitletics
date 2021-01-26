@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+
+<style>
+body {
+  background-image: url('https://thesushantkumar.com/wp-content/uploads/2021/01/download-2.jpeg'); opacity:0.89;"
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+</style>
+
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+</style>
+
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 200px; /* Should be removed. Only for demonstration */
+}
+
+
+</style>
+
+
+<body>
+<div class=" w3-padding-16 w3-container w3-white w3-center">
+  <div class="w3-content">
+      <h1>User Friendly & Actionable
+</h1>
+      <h5 class="w3-padding-32">Our gut intelligence solution covers gut microbiome testing, an at home stool testing, & evaluation that would give you unique insights on your gut microbiome diversity & composition. Here is what you will get:
+</h5>
+
+
+ <div class="row">
+  <div class="column" >
+      <i class="fas fa-microscope w3-text-blue w3-jumbo"></i>
+      <h5>Your complete gut microbiome evaluation </h5>
+    </div>
+  <div class="column" >
+      <i class="fas fa-calendar-check w3-text-orange w3-jumbo"></i>
+      <h5>Personalised 90 days health & nutrition recommendations </h5>
+    </div>
+  <div class="column" >
+      <i class="fa fa-people-arrows w3-text-green w3-jumbo"></i>
+      <h5>One consulting & review session every month
+</h5>
+    </div>
+    
+        </div>
+        </div>
+            <h2>You are a host to microbial world</h2>
+
+        </div>
+
+    <div class=" w3-padding-16 w3-container w3-white w3-left">
+
+        
+        <h5>Our body is home to around 40 trillion microorganisms. This ecosystem of our microbes exerts influence over your mind & body, thereby playing a critical role in overall health including chronic diseases. Through this highly personalised health solution, we would introduce you to this unique invisible army inside you, show you around a bit & optimise them to start working for you.</h5>
+        </div>
+
+    </body>
+    </html>
+    
+   
