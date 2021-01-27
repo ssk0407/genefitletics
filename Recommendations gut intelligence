@@ -35,9 +35,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 /* Create four equal columns that floats next to each other */
 .column {
   float: left;
-  width: 25%;
+  width: 33.3%;
   padding: 10px;
-  height: 280px; /* Should be removed. Only for demonstration */
+  height: 290px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -57,21 +57,36 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 <div class="row">
   <div class="column" style="background-color:#ffff;">
     <img src="https://thesushantkumar.com/wp-content/uploads/2021/01/1.jpg" alt="Snow" style="width:100%">
-    <h5>What foods you can relish</h5>
   </div>
+  
   <div class="column" style="background-color:#fff;">
     <img src="https://thesushantkumar.com/wp-content/uploads/2021/01/4.jpg" alt="Snow" style="width:100%">
-
-<h5>Superfoods for you</h5>
   </div>
-  <div class="column" style="background-color:#fff;">
-    <img src="https://thesushantkumar.com/wp-content/uploads/2021/01/2.jpg" alt="Snow" style="width:100%">
-    <h5>Foods you should eat within limits</h5>
-  </div>
+  
   <div class="column" style="background-color:#fff;">
     <img src="https://thesushantkumar.com/wp-content/uploads/2021/01/3.jpg" alt="Snow" style="width:100%">
-    <h5>Foods to avoid</h5>
   </div>
+  </div>
+  
+  <div class="row">
+  <div class="column" style="background-color:#ffff;">
+    
+    <h5>What foods you can relish</h5>
+  </div>
+  
+  <div class="column" style="background-color:#fff;">
+   
+<h5>Superfoods for you</h5>
+  </div>
+  
+  <div class="column" style="background-color:#fff;">
+   
+    <h5>Foods you should eat within limits & avoid</h5>
+  </div>
+  
+  
+  
+  
 </div>
 </div>
 </div>
