@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 1400px;
+}
+
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: #8df7ee;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 32px;
+  left: 590px;
+}
+
+.container .btn {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #8df7ee;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container .btn:hover {
+  background-color: black;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <img src="https://thesushantkumar.com/wp-content/uploads/2021/01/gene-banner.jpg" alt="Snow" style="width:100%">
+  <button class="btn">Add to Cart</button>
+  <div class="bottom-left"><b>US $ 507 <s>( US $ 660)</s></b></div>
+  
+</div>
+
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+
+<style>
+body {
+  background-image: url('https://thesushantkumar.com/wp-content/uploads/2021/01/dna-5297378_1920.jpg'); opacity:0.80;"
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+</style>
+
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+</style>
+
+
+
+<body>
+<div class=" w3-padding-16 w3-container w3-white w3-center">
+  <div class="w3-content">
+      <h5 class="w3-padding-32">Your nutrition and lifestyle choices have an effect on your gene expression- determining the activity of your genes and whether they turn on or off.
+
+Our genetic intelligence solution analyzes information on the expression of tens of thousands of human genes to reveal dynamic health insights & deliver an actionable nutrition plan & hyper personalised exercise coaching to improve your overall holistic health
+
+</h5>
+
+        </div>
+
+ 
+        </div>
+
+    </body>
+    </html>
+    
+    <!DOCTYPE html>
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+
+<style>
+body {
+  background-image: url('https://thesushantkumar.com/wp-content/uploads/2021/01/dna-5297378_1920.jpg'); opacity:0.89;"
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+</style>
+
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+</style>
+
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<body>
+<div class=" w3-padding-16 w3-container w3-white w3-center">
+  <div class="w3-content">
+      <h1>Hack your health Genetically
+
+</h1>
+
+<h3>Unique nutrition recommendation & hyper personalised exercise coaching to unravel
+</h3>
+
+<div class="row">
+  <div class="column" style="background-color:#fff;">
+<h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;" ></i> Metabolic Health</h5>
+  </div>
+  <div class="column" style="background-color:#fff;">
+    <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;"> </i>
+Predisposition to nutrition allergies & intolerances such as lactose, caffeine, alcohol, fat, carbs</h5>
+</div>
+</div>
+
+<div class="row">
+  <div class="column" style="background-color:#ffff;">
+    <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;"></i> Stress Response</h5>
+
+  </div>
+  <div class="column" style="background-color:#ffff;">
+    <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;"> </i>
+Sensitivities to VO2 max potential, injury risk
+</h5>
+  </div>
+    </div>
+
+  <div class="row">
+  <div class="column" style="background-color:#fff;">
+   <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;" ></i> Weight Loss</h5>
+  </div>
+  <div class="column" style="background-color:#fff;">    
+    <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;"></i> Disease Risk Assessment</h5>
+   </div>
+</div>
+  
+ 
+
+</div>
+</div>
+
+
+    </body>
+    </html>
+    
+    
+    
