@@ -1,0 +1,93 @@
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+
+
+<head>
+<style>
+body {
+  background-image: url('https://thesushantkumar.com/wp-content/uploads/2021/01/dna-5297378_1920.jpg'); opacity:0.89;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+</style>
+
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+</style>
+
+<style>
+* {box-sizing: border-box}
+
+.container {
+  width: inherit;
+  background-color: #ffff;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {width: 60%; background-color: #c91667;}
+.css {width: 45%; background-color: #2196F3;}
+.js {width: 65%; background-color: #c1d604;}
+.php {width: 60%; background-color: #f5a742;}
+.scss {width: 70%; background-color: #ca99ff;}
+
+</style>
+</head>
+
+
+<body>
+
+<div class=" w3-padding-16 w3-container w3-dark-grey w3-center">
+  <div class="w3-content">
+  
+  <h5>You may be astonished to learn about the insights we will provide. Our unique recommendations for your nutrition & hyper personalised coaching for exercise will target your holistic health covering</h5>
+
+
+<p>Metabolic Health</p>
+<div class="container">
+  <div class="skills html"> 60%</div>
+</div>
+
+<p>Active lifestyle management
+</p>
+<div class="container">
+  <div class="skills css">45%</div>
+</div>
+
+<p>Strength, Stamina & Endurance
+</p>
+<div class="container">
+  <div class="skills js">65%</div>
+</div>
+
+<p>Disease Risk Estimation
+</p>
+<div class="container">
+  <div class="skills php">60%</div>
+</div>
+<p>Food intolerances & sensitivities
+</p>
+<div class="container">
+  <div class="skills scss">70%</div>
+</div>
+</div>
+</div>
+
+
+</body>
+</html>
