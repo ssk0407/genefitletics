@@ -144,7 +144,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
+  width: 33.3%;
   padding: 5px;
 }
 
@@ -163,8 +163,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 
 </h1>
 
-<h3>Unique nutrition recommendation & hyper personalised exercise coaching to unravel
-</h3>
+<h4>Unique nutrition recommendation & hyper personalised exercise coaching to unravel
+</h4>
 
 <div class="row">
   <div class="column" style="background-color:#fff;">
@@ -172,21 +172,16 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
   </div>
   <div class="column" style="background-color:#fff;">
     <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;"> </i>
-Predisposition to nutrition allergies & intolerances such as lactose, caffeine, alcohol, fat, carbs</h5>
-</div>
+Stress Response </h5>
 </div>
 
-<div class="row">
-  <div class="column" style="background-color:#ffff;">
-    <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;"></i> Stress Response</h5>
+<div class="column" style="background-color:#ffff;">
+    <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;"></i> Predisposition to nutrition allergies & intolerances </h5>
 
   </div>
-  <div class="column" style="background-color:#ffff;">
-    <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;"> </i>
-Sensitivities to VO2 max potential, injury risk
-</h5>
-  </div>
-    </div>
+
+</div>
+
 
   <div class="row">
   <div class="column" style="background-color:#fff;">
@@ -195,6 +190,13 @@ Sensitivities to VO2 max potential, injury risk
   <div class="column" style="background-color:#fff;">    
     <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;"></i> Disease Risk Assessment</h5>
    </div>
+   
+   <div class="column" style="background-color:#ffff;">
+    <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;"> </i>
+Sensitivities to VO2 max potential, injury risk
+</h5>
+  </div>
+   
 </div>
   
  
@@ -205,6 +207,7 @@ Sensitivities to VO2 max potential, injury risk
 
     </body>
     </html>
+    
     
     
     
