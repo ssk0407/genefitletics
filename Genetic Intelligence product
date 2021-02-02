@@ -17,22 +17,22 @@
 .container {
   position: relative;
   text-align: center;
-  color: #8df7ee;
+  color: #ffff;
 }
 
 .bottom-left {
   position: absolute;
-  bottom: 32px;
-  left: 590px;
+  bottom: 60px;
+  left: 830px;
 }
 
 .container .btn {
   position: absolute;
   top: 80%;
-  left: 50%;
+  left: 70%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-  background-color: #8df7ee;
+  background-color: #2eb82e;
   color: white;
   font-size: 16px;
   padding: 12px 24px;
@@ -43,16 +43,16 @@
 }
 
 .container .btn:hover {
-  background-color: black;
+  background-color: pink;
 }
 </style>
 </head>
 <body>
 
 <div class="container">
-  <img src="https://thesushantkumar.com/wp-content/uploads/2021/01/gene-banner.jpg" alt="Snow" style="width:100%">
-  <button class="btn">Add to Cart</button>
-  <div class="bottom-left"><b>US $ 507 <s>( US $ 660)</s></b></div>
+  <img src="https://thesushantkumar.com/wp-content/uploads/2021/02/gene-banner1.jpg" alt="Snow" style="width:100%">
+  <button class="btn"><a href="https://thesushantkumar.com/product/genetic-intelligence-solution/">Add to Cart</a></button>
+  <div class="bottom-left"><h5><b>US $ 507 <s>( US $ 660)</s></b></h5></div>
   
 </div>
 
@@ -93,9 +93,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 <body>
 <div class=" w3-padding-16 w3-container w3-white w3-center">
   <div class="w3-content">
-      <h5 class="w3-padding-32">Your nutrition and lifestyle choices have an effect on your gene expression- determining the activity of your genes and whether they turn on or off.
+      <h5>Your nutrition and lifestyle choices have an effect on your gene expression- determining the activity of your genes and whether they turn on or off.
 
-Our genetic intelligence solution analyzes information on the expression of tens of thousands of human genes to reveal dynamic health insights & deliver an actionable nutrition plan & hyper personalised exercise coaching to improve your overall holistic health
+Our genetic intelligence solution analyzes information on the expression of tens of thousands of human genes to reveal dynamic health insights & deliver an actionable nutrition plan & hyper personalised exercise coaching to improve your overall holistic health.
 
 </h5>
 
@@ -141,19 +141,15 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
   box-sizing: border-box;
 }
 
-/* Create two equal columns that floats next to each other */
+/* Create three equal columns that floats next to each other */
 .column {
   float: left;
-  width: 33.3%;
+  width: 33.33%;
   padding: 5px;
+  height: 120px; /* Should be removed. Only for demonstration */
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+
 </style>
 
 <body>
@@ -167,31 +163,21 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 </h4>
 
 <div class="row">
-  <div class="column" style="background-color:#fff;">
+  <div class="column">
 <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;" ></i> Metabolic Health</h5>
-  </div>
-  <div class="column" style="background-color:#fff;">
+  
     <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;"> </i>
 Stress Response </h5>
 </div>
 
-<div class="column" style="background-color:#ffff;">
+<div class="column">
     <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;"></i> Predisposition to nutrition allergies & intolerances </h5>
-
+    <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;" ></i> Weight Loss</h5>
   </div>
 
-</div>
-
-
-  <div class="row">
-  <div class="column" style="background-color:#fff;">
-   <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;" ></i> Weight Loss</h5>
-  </div>
-  <div class="column" style="background-color:#fff;">    
+<div class="column">    
     <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;"></i> Disease Risk Assessment</h5>
-   </div>
    
-   <div class="column" style="background-color:#ffff;">
     <h5 style="text-align:left;"><i class="fas fa-star" style="font-size:15px;"> </i>
 Sensitivities to VO2 max potential, injury risk
 </h5>
@@ -199,15 +185,11 @@ Sensitivities to VO2 max potential, injury risk
    
 </div>
   
- 
+ </div>
 
-</div>
+
 </div>
 
 
     </body>
     </html>
-    
-    
-    
-    
