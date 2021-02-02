@@ -1,6 +1,4 @@
-
-    
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -89,6 +87,92 @@ Improve overall metabolic health
  </div>
  
  
+</div>
+</div>
+</div>
+
+
+
+
+    </body>
+    </html>
+
+
+
+    
+    <!DOCTYPE html>
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+
+<style>
+body {
+  background-image: url('https://thesushantkumar.com/wp-content/uploads/2021/01/dna-5297378_1920.jpg'); opacity:0.89;"
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+</style>
+
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+</style>
+
+
+<style>
+      .container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+      }
+      img {
+        max-width: 80%
+      }
+      .image {
+        flex-basis: 60%
+      }
+      .text {
+        font-size: 20px;
+        padding-left: 20px;
+      }
+    </style>
+<body>
+<div class=" w3-padding-16 w3-container w3-dark-grey w3-center">
+  <div class="w3-content">
+
+      
+    <div class="container">
+
+      <div class="text">
+      
+      
+     <h5><b>Genetically aligned workout plan to help you
+</b></h5>
+
+    <h5 style="text-align:left;"><i class="fas fa-chevron-right" style="font-size:15px;" ></i> Build Muscle</h5>
+    <h5 style="text-align:left;"><i class="fas fa-chevron-right" style="font-size:15px;"> </i>Burn Fat </h5>
+ 
+ <h5 style="text-align:left;"><i class="fas fa-chevron-right" style="font-size:15px;"> </i>Ditch your sedentary lifestyle</h5>
+ 
+ <h5 style="text-align:left;"><i class="fas fa-chevron-right" style="font-size:15px;"> </i>Build Strength & Stamina </h5>
+ 
+ </div>
+ 
+ <div class="image">
+        
+        <img src="https://thesushantkumar.com/wp-content/uploads/2021/02/WhatsApp-Image-2021-02-02-at-13.19.56-e1612252692716.jpeg">
+
+  </div>
 </div>
 </div>
 </div>
