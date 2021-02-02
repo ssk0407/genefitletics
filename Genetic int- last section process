@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+
+<style>
+body {
+  background-image: url('https://thesushantkumar.com/wp-content/uploads/2021/01/dna-5297378_1920.jpg'); opacity:0.89;"
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+</style>
+
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+</style>
+<style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+</style>
+<body>
+
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.3%;
+  padding: 20px;
+  height: 280px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+<body>
+
+<div class=" w3-padding-32 w3-container w3-white w3-center">
+  <div class="w3-content">
+<h3> Next Steps:</h3> 
+
+<div class="row">
+  <div class="column" >
+      <i class="fas fa-dna w3-text-green w3-jumbo"></i>
+      <h5>Order your at home genetic test kit </h5>
+    </div>
+  <div class="column" >
+      <i class="fas fa-shipping-fast w3-text-blue w3-jumbo"></i>
+      <h5>We Collect your saliva samples
+ </h5>
+    </div>
+  <div class="column" >
+      <i class="fa fa-microscope w3-text-orange w3-jumbo"></i>
+      <h5>Your sample is processed & information  decoded in testing lab
+
+</h5>
+    </div>
+        </div>
+
+    <div class="row">
+
+     <div class="column" >
+      <i class="fa fa-mobile w3-text-grey w3-jumbo"></i>
+      <h5> Your results & recommendations are available on mobile/web application
+ </h5>
+    </div>
+    
+    
+    <div class="column" >
+      <i class="fa fa-heartbeat w3-text-red w3-jumbo"></i>
+      <h5> You are coached on genetically aligned exercise by health coach/AI technology
+
+ </h5>
+    </div>
+    
+    <div class="column" >
+      <i class="fa fa-hand-holding-heart w3-text-teal w3-jumbo"></i>
+      <h5> Your Progress is reviewed every month
+
+ </h5>
+    </div>
+    
+  </div>
+
+  
+  <button class="button button1">Buy</button>
+
+  
+ <h3> Genetic test is taken once in a lifetime</h3>
+
+
+
+</div>
+</div>
+
+</body>
+</html>
