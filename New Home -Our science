@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+
+<head>
+
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+</style>
+
+<style>
+body {
+  background-image: url('https://thesushantkumar.com/wp-content/uploads/2021/02/wallpaperflare.com_wallpaper.jpg'); opacity:0.89;"
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+</style>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 20px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+</head>
+<body>
+<div class=" w3-padding-16 w3-container w3-white w3-center">
+  <div class="w3-content">
+
+<div class="row">
+  <div class="column">
+    <h2> Our Science</h2>
+
+<h5 style="text-align:left;"> In our ongoing fight against chronic diseases, we have recruited an army of unexpected allies- micro-organisms & genes to help us address the biggest epidemic of this century- CHRONIC INFLAMMATION.
+</h5>
+  </div>
+  <div class="column" >
+    <iframe width="460" height="285" src="https://www.youtube.com/embed/272I-po7Lf0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
+</div>
+</div>
+
+<div class=" w3-padding-32 w3-container w3-white w3-center">
+  <div class="w3-content">
+<h2> Micro-biome</h2>
+<h5 style="text-align:left;">The foreign inhabitant - the microbiome is the entire ecosystem of microbes living inside our body. The genetic material of all microorganisms- bacteria, fungi, yeast, moulds & viruses forms a living layer over your skin and parts of the inside of your body, including the lungs and the digestive tract, from the mouth all the way down to the colon through the vagus nerve.
+
+When our gut microbe is out of balance, our immune system is out of balance since 70% of our immune system is along the gut lining. When our immune system is out of balance, our body is not at ease. This results in inflammation, the root cause of all chronic diseases.</h5></div> </div>
+
+<div class=" w3-padding-8 w3-container w3-white w3-center">
+  <div class="w3-content">
+<h5 style="text-align:left;">We would like to introduce you to this unique microbial world living inside your body, how these microorganisms coordinate with various organs of your body, educate you on what is exactly happening inside your body, & optimise them to make them start working in your favor.
+
+We quantify & magnify living organisms in your gut & evaluate your current gut ecosystem to determine whether the food metabolised by your gut bacteria will release essential nutrients or toxins in your bloodstream which will inflammate your body.</h5></div>
+
+</div>
+
+</body>
+</html>
