@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+
+<head>
+
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+</style>
+
+<style>
+body {
+  background-image: url('https://thesushantkumar.com/wp-content/uploads/2021/02/wallpaperflare.com_wallpaper.jpg'); opacity:0.89;"
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+</style>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 20px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<style>
+.button {
+  background-color: #036ffc; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 4px solid #036ffc;
+}
+
+.button1:hover {
+  background-color: #036ffc;
+  color: white;
+}
+
+</style>
+
+</head>
+<body>
+
+<div class=" w3-padding-16 w3-container w3-white w3-center">
+  <div class="w3-content">
+<h5 style="text-align:left;"> By analysing genes these microorganisms express, we can understand what compounds( metabolites) they release & evaluate their role in the body's ecosystem. By subscribing to our hyper personalised nutrition recommendations, an individual can optimize their gut microbiome composition to work in favor of him. In other words, minimise production of harmful metabolites & maximise release of beneficial ones. </h5>
+&nbsp;
+
+
+<h5 style="text-align:left;"> Besides, our first of its kind gamification model will make sure that you are motivated enough to follow your gut aligned nutrition recommendations & observe improvement in your metabolic health on a regular basis.</h5>
+&nbsp;
+
+<h5 style="text-align:left;">
+Through our data analytics model, you will be able to discover & what foods are ideal for your health, gut microbiome so that you can optimise your gut microbiome to work for you. </h5>
+&nbsp;
+
+<h5 style="text-align:left;">Some of the relevant insights you could learn through out gut intelligence solution:</h5>
+
+
+<ul>
+
+<li> <h5 style="text-align:left;">If some of the polyphenol rich foods such as walnuts & pomegranate juice are not really benefiting you.</h5></li>
+<li> <h5 style="text-align:left;">If consumption of fad diets such as Ketosis, Atkins etcs on a regular basis has resulted in bloating & digesting issues.</h5></li>
+<li> <h5 style="text-align:left;">If microbiomes are not able to process nutrients from foods such as Spinach, beetroot & almonds.</h5></li>
+<li> <h5 style="text-align:left;">If you are eating too much protein that is resulting intestinal permeability & inflammatory response.</h5></li>
+</ul>
+
+   <h5 style="text-align:left;"> AND Our personalised nutrition recommendations are designed to help you,</h5>
+   &nbsp;
+
+
+<div class="row">
+  <div class="column">
+
+<h5 style="text-align:left;" ><i class="fas fa-star" style="font-size:15px;" ></i>  Increase the diversity of your microbes to tackle & manage stress
+</h5>
+<h5 style="text-align:left;" ><i class="fas fa-star" style="font-size:15px;" ></i>  Improve imbalance of microbial groups which can be caused by too many harmful microbes, too much of one family of microbes, or microbes that are staying at the wrong place</h5>
+
+  </div>
+  <div class="column" >
+    <h5 style="text-align:left;" ><i class="fas fa-star" style="font-size:15px;" ></i>  Advise your on food that can fuel your microbes to produce beneficial compounds/microbolites
+
+
+</h5>
+
+<h5 style="text-align:left;" ><i class="fas fa-star" style="font-size:15px;" ></i>  Include foods that can increase energy production
+</h5>
+
+<h5 style="text-align:left;" ><i class="fas fa-star" style="font-size:15px;" ></i> Minimise the foods that have potential for adverse glycemic response
+</h5>
+    
+  </div>
+</div>
+  <button class="button button1"><a href="https://thesushantkumar.com/gut-intelligence-solution/">Buy</a></button>
+
+
+ </div>
+ </div>
+
+</body>
+</html>
