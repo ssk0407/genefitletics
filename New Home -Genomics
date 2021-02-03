@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+
+<head>
+
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+</style>
+
+<style>
+body {
+  background-image: url('https://thesushantkumar.com/wp-content/uploads/2021/02/wallpaperflare.com_wallpaper.jpg'); opacity:0.89;"
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+</style>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 20px;
+  height: 550px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<style>
+.button {
+  background-color: #036ffc; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 4px solid #036ffc;
+}
+
+.button1:hover {
+  background-color: #036ffc;
+  color: white;
+}
+
+</style>
+
+</head>
+<body>
+
+<div class=" w3-padding-16 w3-container w3-black w3-center">
+  <div class="w3-content">
+  
+  <h2>Genomics</h2> 
+  
+  <div class="row">
+  <div class="column">
+
+<h5 style="text-align:left;"> Ecosystem of genes inside our body  define our physical( visible- eyes, hair, skin) & non visible characteristics. Our genes are the blueprint of our life & our body has close to 25000 genes. Every individual has a unique genetic code & these genetic variations in our DNA sequence determine our body’s response to different lifestyle traits.
+
+ Since the discovery of DNA in the 1950s, scientists have been investigating the human genome. Clear links have been established for many aspects of human health, like how genes influence disease risk, metabolism, food intolerances, response to exercise and many personal traits. Thanks to major technological advances, you can now learn what your DNA says about you.</h5>
+
+
+  </div>
+  <div class="column" >
+   <img src="https://thesushantkumar.com/wp-content/uploads/2021/02/3d-render-medical-background-with-vitruvian-style-male-figure_1048-13021-removebg-preview.png" alt="Nature" class="responsive" width="600" height="400">
+
+    
+  </div>
+</div>
+</div>
+</div>
+</body>
+</html>
