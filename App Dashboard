@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+<style>
+.btn {
+  background-color: #160eab;
+  border: none;
+  color: white;
+  padding: 30px 25px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color:#008031;
+}
+</style>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.3%;
+  padding: 10px;
+  height: 190px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+</head>
+<body>
+<div class=" w3-padding-16 w3-center">
+  <div class="w3-content">
+<div class="row">
+  <div class="column" >
+      <button class="btn"><li><a href="https://thesushantkumar.com/"><i class="fas fa-atom fa-spin w3-jumbo"></i></a></li>  </button>
+<h5> Our Science</h5>
+    </div>
+  <div class="column" >
+      <button class="btn"><li><a href="https://thesushantkumar.com/gut-intelligence-assessment/"><i class="fas fa-bacterium fa-pulse w3-jumbo"></i></a></li> 
+</button>
+<h5> Know your Gut</h5>
+    </div>
+  <div class="column" >
+<button class="btn"><li><a href="https://thesushantkumar.com/genetic-intelligence-assessment/"><i class="fas fa-dna fa-pulse w3-jumbo"></i></a></li> </button>
+      <h5>Know your Genes
+</h5>
+    </div>
+
+    
+    </div>
+    
+    <div class="row">
+  <div class="column" >
+      <button class="btn"><li><a href=" https://thesushantkumar.com/reports-recommendations/"><i class="fas fa-user-cog w3-jumbo"></i></a></li></button>
+<h5> My Plan</h5>
+    </div>
+  <div class="column" >
+      <button class="btn"><li><a href="https://thesushantkumar.com/?wpapp_shortcode=wpapp_history"><i class="fas fa-bell  w3-jumbo"></i></a></li> 
+</button>
+<h5> Notification</h5>
+    </div>
+  <div class="column" >
+<button class="btn"><li><a href="https://thesushantkumar.com/health-quiz/"><i class="fas fa-question  w3-jumbo"></i></a></li> </button>
+      <h5>Quiz</h5>
+     </div>
+     </div>
+    <div class="row">
+  <div class="column" >
+      <button class="btn"><li> <a href="https://thesushantkumar.com/online-fitness-events/"><i class="fas fa-gift w3-jumbo"></i></a></li></button>
+<h5> Rewards Program</h5>
+    </div>
+  <div class="column" >
+      <button class="btn"><li> <a href="https://thesushantkumar.com/leaderboard"><i class="fas fa-bullseye  w3-jumbo"></i></a></li> </button>
+<h5> Leaderboard</h5>
+    </div>
+  <div class="column" >
+<button class="btn"><li> <a href="https://thesushantkumar.com/shop"><i class="fas fa-shopping-bag  w3-jumbo"></i></a></li> </button>
+      <h5>Buy Products
+</h5>
+    </div>
+     
+    </div>
+    
+    
+   
+    </div>
+    </div>
+
+
+</body>
+</html>
