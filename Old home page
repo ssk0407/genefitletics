@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<title>Genefitletics</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
+body {font-size: 16px;}
+img {margin-bottom: -8px;}
+.mySlides {display: none;}
+</style>
+<body class="w3-content w3-black" style="max-width:1500px;">
+
+<!-- Clarity Section -->
+<div class="w3-padding-64 w3-black">
+  <div class="w3-row-padding">
+    <div class="w3-col l4 m6">
+      <img class="w3-image w3-round-large w3-hide-small w3" src="https://thesushantkumar.com/wp-content/uploads/2020/11/1.jpg" alt="App" width="335" height="471">
+    </div>
+    <div class="w3-col l8 m6">
+      <h1 class="w3-jumbo"><b>Is it the Healthier You</b></h1>
+      <h1 class="w3-xxxlarge w3-text-red"><b>vs You Always?</b></h1>
+      <p>
+      Being healthy is all about the interplay between your genetic make-up, environment & lifestyle. Your body is unique & what you do with your health is driven by how your nutrition & workout aligns with your genes. Personalising your 3-pillars of health- Nutrition, Workout & Sleep is the perfect recipe for embracing a healthy lifestyle. 
+</p>
+    </div>
+  </div>
+</div>
+
+<!-- The App Section -->
+<div class="w3-padding-64 w3-white">
+  <div class="w3-row-padding">
+    <div class="w3-col l8 m6">
+      <h2 class="w3-jumbo"><b>Genefitletics</b></h2>
+      <h1 class="w3-xxlarge w3-text-green"><b>Let your genes decide what you eat & how you sweat</b></h1>
+      <p><span class="w3-xlarge">First-of-its kind genomics powered preventive health application that will assist you in your health & fitness journey. This is not just an app but a life-sciences approach to your health & fitness.</p>
+     
+      
+      <button id="Button" class="w3-button w3-light-grey w3-padding-large w3-section w3-hide-small" ><i class="fa fa-download"></i> Download Application</button>
+
+<script type="text/javascript">
+    document.getElementById("Button").onclick = function () {
+        location.href = "https://play.google.com/store/apps/details?id=appthesushantkumarcompff.wpapp";
+    };
+</script>
+      <p>Available for <i class="fa fa-android w3-xlarge w3-text-green"></i></p>
+    </div>
+    <div class="w3-col l4 m6">
+      <img src="https://thesushantkumar.com/wp-content/uploads/2020/11/2.jpg" class="w3-image w3-right w3-hide-small" width="335" height="471">
+      <div class="w3-center w3-hide-large w3-hide-medium">
+        
+        
+      </div>
+    </div>
+  </div>
+
+
+
+</div>
+
+
+
+<!-- Features Section -->
+<div class="w3-container w3-padding-64 w3-black w3-center">
+  <h1 class="w3-jumbo"><b>How we are Different?</b></h1>
+
+  <div class="w3-row" style="margin-top:64px">
+    <div class="w3-col s3">
+      <i class="fas fa-dna w3-text-blue w3-jumbo"></i>
+      <p>Access Genomics Insights</p>
+    </div>
+    <div class="w3-col s3">
+      <i class="fas fa-blog	 w3-text-orange w3-jumbo"></i>
+      <p>Scientific health content</p>
+    </div>
+    <div class="w3-col s3">
+      <i class="fa fa-bullseye w3-text-purple w3-jumbo"></i>
+      <p>Fitness Challenges</p>
+    </div>
+    <div class="w3-col s3">
+      <i class="fa fa-comments w3-text-green w3-jumbo"></i>
+      <p>Ask experts</p>
+    </div>
+  </div>
+
+  <div class="w3-row" style="margin-top:64px">
+    <div class="w3-col s3">
+      <i class="fa fa-money w3-text-green w3-jumbo"></i>
+      <p>Earn Rewards</p>
+    </div>
+    <div class="w3-col s3">
+      <i class="fas fa-broadcast-tower w3-text-red w3-jumbo"></i>
+      <p>Webinars & Live talks</p>
+    </div>
+    <div class="w3-col s3">
+      <i class="fab fa-forumbee	 w3-text-amber w3-jumbo"></i>
+      <p>Global Forum & Community</p>
+    </div>
+    <div class="w3-col s3">
+      <i class="fa fa-podcast w3-text-cyan w3-jumbo"></i>
+      <p>Podcast</p>
+    </div>
+  </div>
+  
+  <div class="w3-row" style="margin-top:64px">
+    <div class="w3-col s3">
+      <i class="fas fa-microscope w3-text-pink w3-jumbo"></i>
+      <p>Genomics based preventive health program</p>
+    </div>
+    <div class="w3-col s3">
+      <i class="fas fa-clock w3-text-teal w3-jumbo"></i>
+      <p>Circadian Rhythm tracker*</p>
+    </div>
+    <div class="w3-col s3">
+      <i class="fas fa-dumbbell w3-text-red w3-jumbo"></i>
+      <p>Coaches across the world</p>
+    </div>
+    <div class="w3-col s3">
+      <i class="fas fa-robot w3-text-orange w3-jumbo"></i>
+      <p>AI Motion Coach*</p>
+    </div>
+  </div>
+      <p>*to be launched</p>
+
+</div>
+
+
+<script>
+// Slideshow
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+
+</body>
+</html>
